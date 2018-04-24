@@ -2,8 +2,7 @@
 title: EMMA TWEEDIE
 email: ""
 description: "EMMA TWEEDIE | Artist"
-# url: "https://emmatweedie.uk"
-url: "http://localhost"
+url: "http://emmatweedie.uk"
 baseurl: ""
 # facebook_username: ""
 twitter_username: ""
@@ -34,13 +33,7 @@ comments :
 
 # Internal nav
 nav:
-  # - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  # - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  # - ABOUT: "https://sunbliss.github.io/photorama/about/"
-  # - ABOUT: "https://emmatweedie.uk/about/"
-  # - CONTACTED: "https://emmatweedie.uk/contacted/" 
-  - CONTACT: "http://localhost:4000/contact/"
-  # - CONTACTED: "https://localhost/contacted/"
+  - CONTACT: "http://emmatweedie.uk/contact/"
 
 # All translation keys
 translations:

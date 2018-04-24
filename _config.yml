@@ -1,21 +1,22 @@
 # Site settings
-title: PHOTORAMA
+title: EMMA TWEEDIE
 email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
-facebook_username: ""
+description: "EMMA TWEEDIE | Artist"
+# url: "https://emmatweedie.uk"
+url: "http://localhost"
+baseurl: ""
+# facebook_username: ""
 twitter_username: ""
 instagram_username: ""
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+# github_username:  ""
+# deviantart_username: ""
+# flickr_username: ""
+# discus_shortname: ""
 share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Emma Tweedie
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
@@ -33,9 +34,13 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  # - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
+  # - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
+  # - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  # - ABOUT: "https://emmatweedie.uk/about/"
+  # - CONTACTED: "https://emmatweedie.uk/contacted/" 
+  - CONTACT: "http://localhost:4000/contact/"
+  # - CONTACTED: "https://localhost/contacted/"
 
 # All translation keys
 translations:

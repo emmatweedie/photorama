@@ -79,7 +79,7 @@ hr.small {
     color: #0085a1;
   }
   .navbar-custom .nav li a {
-    color: white;
+    color: #165d69;
     padding: 20px;
   }
   .navbar-custom .nav li a:hover{
@@ -151,7 +151,7 @@ hr.small {
   .intro-header .site-heading,
   .intro-header .post-heading,
   .intro-header .page-heading {
-    padding: 150px 0;
+    padding: 80px 0;
   }
 }
 .intro-header .site-heading,
@@ -337,6 +337,7 @@ form .row:first-child .floating-label-form-group {
   letter-spacing: 1px;
   border-radius: 0;
   padding: 15px 25px;
+  background-color: #165d69
 }
 .btn-lg {
   font-size: 16px;
@@ -406,3 +407,8 @@ body {
  color: black;
 }
 
+textarea.form-control {
+
+    height: 130px;
+
+}

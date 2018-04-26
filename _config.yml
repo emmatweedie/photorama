@@ -33,7 +33,7 @@ comments :
 
 # Internal nav
 nav:
-  - CONTACT: "http://emmatweedie.uk/contact/"
+  - CONTACT: "/contact/"
 
 # All translation keys
 translations:
